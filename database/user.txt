@@ -1,3 +1,4 @@
 U005,binita sharma,4,10000,July
 U006,Sareen Nandal,5,6000,July
 U007,Anshu kumari,3,8000,July
+U002,Ankita Sharma,7,9000
